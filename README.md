@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-目前是一家网络安全公司的菜鸡，熟悉Java、Python, 对 GO 和 Flutter 均有涉猎
+目前是一家网络安全公司的菜鸡，熟悉Java、Python, 对 Go 和 Flutter 均有涉猎
 
 
 ### Languages and Tools:
