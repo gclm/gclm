@@ -2,7 +2,7 @@
 
 **gclm/gclm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🏢 I'm currently working at **sangfor. Ltd.**
+<!-- - 🏢 I'm currently working at **sangfor. Ltd.** -->
 - 🚀 I use daily:
   ![Java](https://img.shields.io/badge/-Java-blue?style=plastic&logo=java)
   ![Golang](https://img.shields.io/badge/-Golang-red?style=plastic&logo=go)
