@@ -1,7 +1,42 @@
-### Hi there，I'm gclm 👋
-<!--
+### Hi there , I'm [gclm](https://github.com/gclm)👋
+
 **gclm/gclm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- 🏢 I'm currently working at **sangfor. Ltd.**
+- 🚀 I use daily:
+  ![Java](https://img.shields.io/badge/-Java-blue?style=plastic&logo=java)
+  ![Golang](https://img.shields.io/badge/-Golang-red?style=plastic&logo=go)
+  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+
+- 💻 I work using:
+  ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-3b2e5a?style=plastic&logo=elastic)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=plastic&logo=postgresql)
+  ![ClickHouse](https://img.shields.io/badge/ClickHouse-232F3E?style=plastic&logo=ClickHouse)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
+
+- ⚙️ I also use and work: 
+  ![MySQL](https://img.shields.io/badge/-MySQL-white?style=plastic&logo=mysql)
+  ![Redis](https://img.shields.io/badge/-Redis-6933FF?style=plastic&logo=redis)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+  ![Vue](https://img.shields.io/badge/-Vue.js-35495E?style=plastic&logo=vue.js)
+<!--   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3) -->
+<!--   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap) -->
+- 🌱 Learning all about:
+  ![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-c7b198?style=plastic&logo=Kubernetes)
+  ![Flutter](https://img.shields.io/badge/-Flutter-E10098?style=plastic&logo=flutter)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+- ⚡️ Fun fact: eat
+
+***
+
+[![gclm's github stats](https://github-readme-stats.vercel.app/api?username=gclm&show_icons=true)](https://github.com/gclm)
+
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,30 +48,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-目前是一家网络安全公司的菜鸡，熟悉Java、Python, 对 Go 和 Flutter 均有涉猎
+<!-- 目前是一家网络安全公司的菜鸡，熟悉Java、Python, 对 Go 和 Flutter 均有涉猎 -->
 
 
-### Languages and Tools:
 
-<p>  
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/shell/shell-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
-
-
-### Github State
-
-![gclm's github stats](https://github-readme-stats.vercel.app/api?username=gclm&show_icons=true)
 
