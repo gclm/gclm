@@ -29,7 +29,7 @@
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-c7b198?style=plastic&logo=Kubernetes)
   ![Flutter](https://img.shields.io/badge/-Flutter-E10098?style=plastic&logo=flutter)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-- ⚡️ Fun fact: eat
+<!-- - ⚡️ Fun fact: eat -->
 
 ***
 
