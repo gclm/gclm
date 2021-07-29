@@ -13,6 +13,7 @@
 - 💻 I work using:
   ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-3b2e5a?style=plastic&logo=elastic)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=plastic&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
   ![ClickHouse](https://img.shields.io/badge/ClickHouse-232F3E?style=plastic&logo=ClickHouse)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
@@ -28,7 +29,7 @@
   ![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-c7b198?style=plastic&logo=Kubernetes)
   ![Flutter](https://img.shields.io/badge/-Flutter-E10098?style=plastic&logo=flutter)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+  
 <!-- - ⚡️ Fun fact: eat -->
 
 ***
