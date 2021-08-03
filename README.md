@@ -1,6 +1,6 @@
 ### Hi there , I'm [gclm](https://github.com/gclm)👋
 
-**gclm/gclm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **gclm/gclm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- - 🏢 I'm currently working at **sangfor. Ltd.** -->
 - 🚀 I use daily:
