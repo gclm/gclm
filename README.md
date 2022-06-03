@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/gclm" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=gclm&title_color=333&text_color=777&count_private=true&show_icons=true" alt="gclm's Stats" >
+    <img src="gclm-github-readme.vercel.app/api?username=gclm&title_color=333&text_color=777&count_private=true&show_icons=true" alt="gclm's Stats" >
   </a>
 </p>
 
