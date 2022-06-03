@@ -34,7 +34,7 @@
 
 ***
 
-[![gclm's github stats](https://github-readme-stats-six-mocha.vercel.app/api?username=gclm&count_private=true&show_icons=true&title_color=00adb5&text_color=3d84a8&icon_color=00adb5)](https://github.com/gclm)
+[![gclm's github stats](https://github-readme-stats.vercel.app/api?username=gclm&count_private=true&show_icons=true&title_color=00adb5&text_color=3d84a8&icon_color=00adb5)](https://github.com/gclm)
 
 <!--
 Here are some ideas to get you started:
