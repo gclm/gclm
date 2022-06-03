@@ -1,7 +1,7 @@
 ### Hi there , I'm [gclm](https://github.com/gclm)👋 , one who likes building things 👨‍💻, troubleshoot, and listen to songs.
 
 - 一名网络安全工程师，主要从事安全态势感知方向
-- 一名算法工程师，主要从事幕墙行业视觉算法方向
+- 一名算法工程师，主要从事计算机视觉方向
 - 一名大数据开发工程师，主要从事数据处理方向
 
 ---
