@@ -58,30 +58,30 @@
 <h2></h2>
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/gclm/gclm/main/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
 
 **Languages and Frameworks**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/java/java.png" alt="C++" title="C++"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/python/python.png" alt="Python" title="Python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/go/go.png" alt="Go" title="Go"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/git/git.png" alt="Git" title="Git"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/jenkins/jenkins.png" alt="Jenkins" title="Jenkins"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/docker/docker.png" alt="Docker" title="Docker"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/pytorch/pytorch.png" alt="PyTorch" title="PyTorch"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="C++" title="C++"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" title="Python"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" alt="Go" title="Go"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" title="Git"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png" alt="Jenkins" title="Jenkins"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker" title="Docker"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png" alt="PyTorch" title="PyTorch"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
 
 **Tools and Environments**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/intellij-idea/intellij-idea.png" alt="IDEA" title="IDEA"></code>
-<code><img height="20" src="https://images.nowcoder.com/images/20180629/0_1530258305740_67F7BB46DE9FC78164CA628F2CE05C37" alt="PyCharm" title="PyCharm"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/vim/vim.png" alt="Vim" title="Vim"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/ce9fb3389462f2c9444f863e410f0d17d04b216beba8749a015011887eadfbaf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e63762f6f70656e63762d69636f6e2e737667" alt="OpenCV" title="OpenCV"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ae48d1ca3274c0c3a90f872e605eaef069a16771/topics/linux/linux.png" alt="Linux" title="Linux"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" alt="IDEA" title="IDEA"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/pycharm/pycharm.png" alt="PyCharm" title="PyCharm"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vim/vim.png" alt="Vim" title="Vim"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/opencv/opencv.png" alt="OpenCV" title="OpenCV"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 
 <br>
 
