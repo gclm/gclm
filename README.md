@@ -89,12 +89,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                   4 hrs 27 mins   ███████████████▒░░░░░░░░░   61.38 %
-Markdown               1 hr 36 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
-YAML                   23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-XML                    12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-BashPro Shell Script   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-VTL                    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
