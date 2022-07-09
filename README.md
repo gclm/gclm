@@ -35,7 +35,7 @@
     <img src="https://img.icons8.com/material-two-tone/50/000000/mail.png" width="28px"/>
   </a>
   &emsp;
-  <br><br>
+<!--   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://github.com/gclm">
@@ -52,7 +52,7 @@
   </a>
   <a href="https://github.com/gclm">
     <img src="https://badges.pufler.dev/commits/monthly/gclm?style=flat-square&color=black&logo=github">
-  </a>
+  </a> -->
 </p>
 
 <h2></h2>
