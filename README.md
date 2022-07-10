@@ -89,7 +89,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java                   22 hrs 48 mins  ████████████████████▓░░░░   82.51 %
+YAML                   1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+Gradle                 53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Groovy                 33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+XML                    28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Markdown               14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
