@@ -89,12 +89,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                   1 hr 10 mins    █████████████░░░░░░░░░░░░   52.27 %
-Python                 35 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.67 %
-Bash                   13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-Gradle                 5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-Groovy                 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Text                   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
