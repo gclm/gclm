@@ -89,12 +89,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                   3 hrs 49 mins   ██████████████████████▓░░   91.20 %
-Gradle                 5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Kotlin                 3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Groovy                 3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Properties             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-GitIgnore file         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
