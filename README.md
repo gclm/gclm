@@ -89,12 +89,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                     1 hr 31 mins    ████████████████████▓░░░░   82.92 %
-XML                      6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
-Groovy                   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-Gradle                   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-textmate                 2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-AlibabaCloudROS (JSON)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
