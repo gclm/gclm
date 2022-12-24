@@ -89,12 +89,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java               32 mins         ███████████████████▒░░░░░   77.43 %
-Python             3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-JavaScript         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-JSON               2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-Markdown           1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-Groovy             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
